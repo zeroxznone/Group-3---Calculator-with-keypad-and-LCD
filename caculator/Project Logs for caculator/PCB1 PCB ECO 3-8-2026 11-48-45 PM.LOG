@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=+3.3 Pin=C6-2
-Added Pin To Net: NetName=+3.3 Pin=C7-1
-Added Pin To Net: NetName=+3.3 Pin=C8-2
-Added Pin To Net: NetName=+3.3 Pin=U1-24
-Added Pin To Net: NetName=+3.3 Pin=U1-36
-Added Pin To Net: NetName=+3.3 Pin=U1-48
-Added Member To Class: ClassName=Sheet1 Member=Component SW13 PTS645SM43SMTR92LFS

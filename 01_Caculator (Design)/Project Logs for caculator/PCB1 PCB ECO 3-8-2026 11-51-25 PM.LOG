@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=+3.3 Pin=C4-2
+Removed Pin From Net: NetName=+3.3 Pin=C5-2
+Removed Pin From Net: NetName=+3.3 Pin=C6-2
+Removed Pin From Net: NetName=+3.3 Pin=C7-1
+Removed Pin From Net: NetName=+3.3 Pin=C8-2
+Removed Pin From Net: NetName=+3.3 Pin=C9-2
+Removed Pin From Net: NetName=+3.3 Pin=C10-2
+Removed Pin From Net: NetName=+3.3 Pin=P1-1
+Removed Pin From Net: NetName=+3.3 Pin=P2-1
+Removed Pin From Net: NetName=+3.3 Pin=R2-2
+Removed Pin From Net: NetName=+3.3 Pin=SW17-3
+Removed Pin From Net: NetName=+3.3 Pin=U1-1
+Removed Pin From Net: NetName=+3.3 Pin=U1-9
+Removed Pin From Net: NetName=+3.3 Pin=U1-24
+Removed Pin From Net: NetName=+3.3 Pin=U1-36
+Removed Pin From Net: NetName=+3.3 Pin=U1-48
+Removed Pin From Net: NetName=+3.3 Pin=U2-2
+Change Net Name : Old Net Name=+3.3 New Net Name=GND
+Added Pin To Net: NetName=+3.3 Pin=C4-2
+Added Pin To Net: NetName=+3.3 Pin=C5-2
+Added Pin To Net: NetName=+3.3 Pin=C6-2
+Added Pin To Net: NetName=+3.3 Pin=C7-1
+Added Pin To Net: NetName=+3.3 Pin=C8-2
+Added Pin To Net: NetName=+3.3 Pin=C9-2
+Added Pin To Net: NetName=+3.3 Pin=C10-2
+Added Pin To Net: NetName=+3.3 Pin=P1-1
+Added Pin To Net: NetName=+3.3 Pin=P2-1
+Added Pin To Net: NetName=+3.3 Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=SW17-3
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=+3.3 Pin=U1-9
+Added Pin To Net: NetName=+3.3 Pin=U1-24
+Added Pin To Net: NetName=+3.3 Pin=U1-36
+Added Pin To Net: NetName=+3.3 Pin=U1-48
+Added Pin To Net: NetName=+3.3 Pin=U2-2
+Added Net: Name=+3.3
+Added Rule: Name=Schematic Supply Nets_1

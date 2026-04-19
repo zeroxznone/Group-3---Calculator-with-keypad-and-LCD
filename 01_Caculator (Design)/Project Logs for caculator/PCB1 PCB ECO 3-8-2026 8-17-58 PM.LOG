@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3.3 Pin=1-1
+Removed Pin From Net: NetName=+3.3 Pin=1-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=+3.3 Pin=C11-2
+Removed Member From Class: ClassName=Sheet1 Member=1
+Removed Member From Class: ClassName=Sheet1 Member=C11
+Added Member To Class: ClassName=Sheet1 Member=Component SW13 PTS645SM43SMTR92LFS

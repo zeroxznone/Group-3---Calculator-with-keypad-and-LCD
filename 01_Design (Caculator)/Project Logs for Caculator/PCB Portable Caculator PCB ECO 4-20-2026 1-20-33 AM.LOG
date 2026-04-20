@@ -1,0 +1,65 @@
+Change Component Designator: OldDesignator=SW26 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW27 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW28 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW29 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW30 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW31 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW32 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW33 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW34 NewDesignator=SW9
+Change Component Designator: OldDesignator=SW35 NewDesignator=SW10
+Change Component Designator: OldDesignator=SW36 NewDesignator=SW11
+Change Component Designator: OldDesignator=SW37 NewDesignator=SW12
+Change Component Designator: OldDesignator=SW38 NewDesignator=SW13
+Change Component Designator: OldDesignator=SW39 NewDesignator=SW14
+Change Component Designator: OldDesignator=SW40 NewDesignator=SW15
+Change Component Designator: OldDesignator=SW41 NewDesignator=SW16
+Change Component Designator: OldDesignator=SW42 NewDesignator=SW17
+Change Component Designator: OldDesignator=SW43 NewDesignator=SW18
+Change Component Designator: OldDesignator=SW44 NewDesignator=SW19
+Change Component Designator: OldDesignator=SW45 NewDesignator=SW20
+Change Component Designator: OldDesignator=SW46 NewDesignator=SW21
+Change Component Designator: OldDesignator=SW47 NewDesignator=SW22
+Change Component Designator: OldDesignator=SW48 NewDesignator=SW23
+Change Component Designator: OldDesignator=SW49 NewDesignator=SW24
+Change Component Designator: OldDesignator=SW50 NewDesignator=SW25
+Add component: Footprint Not Found TYPE-C-16POS
+Add component: Footprint Not Found RES-SMD-0603
+Add component: Footprint Not Found RES-SMD-0603
+Add Pin To Net: Unknown Pin: Pin J1-A1_B12
+Add Pin To Net: Unknown Pin: Pin J1-A4_B9
+Add Pin To Net: Unknown Pin: Pin J1-A5
+Add Pin To Net: Unknown Pin: Pin J1-A6
+Add Pin To Net: Unknown Pin: Pin J1-A7
+Add Pin To Net: Unknown Pin: Pin J1-A9_B4
+Add Pin To Net: Unknown Pin: Pin J1-A12_B1
+Add Pin To Net: Unknown Pin: Pin J1-B5
+Add Pin To Net: Unknown Pin: Pin J1-B6
+Add Pin To Net: Unknown Pin: Pin J1-B7
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Change Net Name : Old Net Name=NetSW26_2 New Net Name=NetSW1_2
+Change Net Name : Old Net Name=NetSW27_2 New Net Name=NetSW2_2
+Change Net Name : Old Net Name=NetSW28_2 New Net Name=NetSW3_2
+Change Net Name : Old Net Name=NetSW29_2 New Net Name=NetSW4_2
+Change Net Name : Old Net Name=NetSW30_2 New Net Name=NetSW5_2
+Change Net Name : Old Net Name=NetSW31_2 New Net Name=NetSW6_2
+Change Net Name : Old Net Name=NetSW32_2 New Net Name=NetSW7_2
+Change Net Name : Old Net Name=NetSW33_2 New Net Name=NetSW8_2
+Change Net Name : Old Net Name=NetSW34_2 New Net Name=NetSW9_2
+Change Net Name : Old Net Name=NetSW35_2 New Net Name=NetSW10_2
+Change Net Name : Old Net Name=NetSW36_2 New Net Name=NetSW11_2
+Change Net Name : Old Net Name=NetSW37_2 New Net Name=NetSW12_2
+Change Net Name : Old Net Name=NetSW38_2 New Net Name=NetSW13_2
+Change Net Name : Old Net Name=NetSW39_2 New Net Name=NetSW14_2
+Change Net Name : Old Net Name=NetSW40_2 New Net Name=NetSW15_2
+Change Net Name : Old Net Name=NetSW41_2 New Net Name=NetSW16_2
+Change Net Name : Old Net Name=NetSW42_2 New Net Name=NetSW17_2
+Change Net Name : Old Net Name=NetSW43_2 New Net Name=NetSW18_2
+Change Net Name : Old Net Name=NetSW44_2 New Net Name=NetSW19_2
+Change Net Name : Old Net Name=NetSW45_2 New Net Name=NetSW20_2
+Add Class Member: Failed to add class member : Component J1 USB Type-C
+Add Class Member: Failed to add class member : Component R1 5.1K
+Add Class Member: Failed to add class member : Component R2 5.1K
